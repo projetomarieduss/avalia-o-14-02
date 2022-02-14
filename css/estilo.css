@@ -1,0 +1,72 @@
+
+  body {
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size: 16px;
+    
+    color: black;
+    margin-top: auto;
+    margin: 40px;
+    background-image: url('../img/fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: rgb(68, 43, 29);
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: rgb(68, 43, 29);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 18px;
+    text-align: right;
+  }
+  p{
+    text-align: center; 
+    font-size: 18px;
+    color: #333;
+  }
+  
+  h2, h4, h5, h6 {
+    text-align: center;
+  }
+ 
+  img {
+    opacity: 0.5;
+    text-align: center;
+    margin-left: 25px;
+    border-radius: 10px;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+  div.gallery {
+    margin: 25px;
+    float: left;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    border: 5px solid #777;
+  }
+  
+  div.desc {
+    padding: 2px;
+    text-align: right;
+    margin-left: 0px;
+  }
+  
+  
